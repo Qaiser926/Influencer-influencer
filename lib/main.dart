@@ -12,8 +12,6 @@ void main() {
   runApp(const Influencer());
 }
 
-
-
 class Influencer extends StatelessWidget {
   const Influencer({Key? key}) : super(key: key);
   @override
